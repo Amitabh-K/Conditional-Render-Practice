@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Conditional-Render-Practice/precache-manifest.8d08e25f9a568849e79f97fb9030816c.js"
+  "/Conditional-Render-Practice/precache-manifest.10cdae8a3faa3075aefa8d36bad5b772.js"
 );
 
 self.addEventListener('message', (event) => {
