@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Conditional Render
+
+### Render one of four different components based upon our component's state.
+
+  * Render the `About` component when `this.state.currentPage === "About"`
+  
+  * Render the `Blog` component when `this.state.currentPage === "Blog"`
+
+  * Render the `Contact` component when `this.state.currentPage === "Contact"`
+
+  * Render the `Home` component when `this.state.currentPage === "Home"`
+
 ## Available Scripts
 
 In the project directory, you can run:
